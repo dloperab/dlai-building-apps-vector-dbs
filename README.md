@@ -31,11 +31,22 @@ Semantic search is a type of search that focuses on the meaning of the content b
 
 This is an extremely powerful concept that underlies much of what we see in text-oriented generative AI applications.
 
-📝 [Notebook: Semantic Search Lesson](./notebooks/01_semantic_search.ipynb)
+![Semantic Search](./images/semantic_search.png)
+
+📝 **Notebook:** [01_semantic_search.ipynb](./notebooks/01_semantic_search.ipynb)
 
 ## Lesson 2: Retrieval Augmented Generation (RAG)
 
-*Coming soon...*
+The RAG (Retrieval-Augmented Generation) system is a method that combines retrieval of relevant documents or data from an external source with the generation of natural language responses, usually via a generative model. Here’s a simplified breakdown:
+
+* **Retrieval:** The system first searches a database or document corpus to fetch relevant pieces of information based on a user's query.
+* **Augmented Generation:** It then uses a generative model to generate a response, but instead of purely relying on what it has been trained on, it incorporates the retrieved information to create a more accurate and contextually relevant answer.
+
+This system is particularly useful for enhancing the accuracy and specificity of AI-generated responses, as it can access up-to-date or domain-specific information from external sources.
+
+![RAG](/images/rag.png)
+
+📝 **Notebook:** *Coming soon...*
 
 ## Lesson 3: Recommender Systems
 
