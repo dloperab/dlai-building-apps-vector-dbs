@@ -22,6 +22,7 @@ tqdm = "^4.66.5"
 datasets = "^2.21.0"
 deepface = "^0.0.93"
 tf-keras = "^2.17.0"
+openai = "^1.44.0"
 
 
 [tool.poetry.group.dev.dependencies]

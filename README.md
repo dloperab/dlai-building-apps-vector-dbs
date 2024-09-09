@@ -7,6 +7,7 @@ Personal notes and code for the **DeepLearning.AI** course [Building Application
 * Python 3.10+
 * Poetry
 * Pinecone API Key
+* OpenAI API Key
 
 ### Getting Started
 
@@ -21,6 +22,7 @@ Create a .env file in the root directory of the project.
 Add the following environment variables to the .env file:
 ```
 PINECONE_API_KEY=<Pinecone API Key>
+OPENAI_API_KEY=<OpenAI API Key>
 ```
 
 3. Run the desired notebook.
@@ -46,7 +48,7 @@ This system is particularly useful for enhancing the accuracy and specificity of
 
 ![RAG](/images/rag.png)
 
-📝 **Notebook:** *Coming soon...*
+📝 **Notebook:** [02_rag.ipynb](./notebooks/02_rag.ipynb)
 
 ## Lesson 3: Recommender Systems
 
