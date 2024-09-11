@@ -52,7 +52,11 @@ This system is particularly useful for enhancing the accuracy and specificity of
 
 ## Lesson 3: Recommender Systems
 
-*Coming soon...*
+In the context of vector databases, **recommender systems** leverage high-dimensional vectors to capture the semantic similarity between items (such as products, news, or users) by embedding them into a shared vector space. The system then uses the vector representations to perform similarity searches, allowing for efficient and accurate recommendations based on proximity between vectors, which represents likeness in preferences, behavior, or content attributes. This approach is particularly useful for large-scale recommendation tasks due to its scalability and speed.
+
+![Recommender System](/images/recommender_system.png)
+
+📝 **Notebook:** [03_recommender.ipynb](./notebooks/03_recommender.ipynb)
 
 ## Lesson 4: Hybrid Search
 

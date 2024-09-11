@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 .DS_Store
-test.py
 /notebooks/lesson2-wiki.csv.zip
 /notebooks/wiki.csv
+/notebooks/all-the-news-3.zip
+/notebooks/all-the-news-3.csv
