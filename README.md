@@ -60,7 +60,11 @@ In the context of vector databases, **recommender systems** leverage high-dimens
 
 ## Lesson 4: Hybrid Search
 
-*Coming soon...*
+Pinecone supports vectors with sparse and dense values, which allows you to perform hybrid search on your Pinecone index. Hybrid search combines semantic and keyword search in one query for more relevant results. Semantic search results for out-of-domain queries can be less relevant; combining these with keyword search results can improve relevance.
+
+![Hybrid Search](/images/hybrid_search.png)
+
+📝 **Notebook:** [04_hybrid_search.ipynb](./notebooks/04_hybrid_search.ipynb)
 
 ## Lesson 5: Facial Similarity Search
 
