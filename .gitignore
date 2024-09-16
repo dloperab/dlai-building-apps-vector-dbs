@@ -169,3 +169,7 @@ cython_debug/
 /notebooks/family
 /notebooks/family_photos.zip
 /notebooks/vectors.vec
+/notebooks/lesson6.tar
+/notebooks/training.tar.zip
+/notebooks/training.txt
+/notebooks/checkpoints/

@@ -86,7 +86,7 @@ Technique used to find faces that look similar to a given face within a dataset.
 ![Anomaly Detection](/images/anomaly_detection.png)
 
 
-📝 **Notebook:** *Coming soon...*
+📝 **Notebook:** [06_anomaly_detection.ipynb](./notebooks/06_anomaly_detection.ipynb)
 
 ### Contributions
 
