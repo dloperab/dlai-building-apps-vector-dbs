@@ -68,7 +68,18 @@ Pinecone supports vectors with sparse and dense values, which allows you to perf
 
 ## Lesson 5: Facial Similarity Search
 
-*Coming soon...*
+Technique used to find faces that look similar to a given face within a dataset. The process involves converting facial images into numerical representations (embeddings) and then comparing these embeddings to determine the degree of similarity.
+
+![Facial Similarity Search](/images/facial_similarity_search.png)
+
+### Reducing dimension of the data
+
+![pca-tsne](/images/pca_tsne.png)
+![PCA](/images/pca.png)
+![T-SNE](/images/tsne.png)
+
+
+📝 **Notebook:** [05_facial_similarity_search.ipynb](./notebooks/05_facial_similarity_search.ipynb)
 
 ## Lesson 6: Anomaly Detection
 

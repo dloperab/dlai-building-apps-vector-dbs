@@ -166,3 +166,6 @@ cython_debug/
 /notebooks/wiki.csv
 /notebooks/all-the-news-3.zip
 /notebooks/all-the-news-3.csv
+/notebooks/family
+/notebooks/family_photos.zip
+/notebooks/vectors.vec
